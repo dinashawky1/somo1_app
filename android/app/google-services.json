@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264676782292",
+    "project_id": "somo1-app",
+    "storage_bucket": "somo1-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264676782292:android:b35609ee11a28d3b3fcb41",
+        "android_client_info": {
+          "package_name": "com.example.somo1_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264676782292-iqnf3uq22iq1sjj8tebdb2bdtri9fhg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdCc6kiZLS258OppQbYXrGuj1vqEiDb3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264676782292-iqnf3uq22iq1sjj8tebdb2bdtri9fhg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
